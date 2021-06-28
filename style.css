@@ -1,0 +1,185 @@
+/*Обнуление*/
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+nav,footer,header,aside{display: block;}
+html,body{
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family:inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
+/*--------------------*/
+
+
+.logo-image {
+	width: 100%;
+	height: 100%;
+  color: #ffffff;
+  font-size: 150px;
+}
+
+
+.user {
+	position: absolute;
+  top: 20%;
+  left: 6%;
+	text-shadow: #000000 2px 3px 4px;
+	padding: 10px;
+	margin: 10px;
+}
+
+.user-two {
+  position: absolute;
+  top: 60%;
+	text-shadow: #000000 2px 3px 4px;
+	margin: 1px;
+	left:6%;
+	
+}
+
+.Iam {
+	margin: 10px;
+	text-align: center;
+	padding: 30px ;
+	color: #646464;
+	text-shadow: #837d7d 2px 3px 4px;
+	background-color: #fefefe;
+	
+}
+
+.user-three {
+	font-size: 120px;
+	margin: 115px 0px 15px;
+}
+
+.I {
+	margin: 1px;
+	display: block;
+  margin: 0 auto;
+	width: 100%;
+}
+
+.me {
+	font-size: 40px;
+	margin-top: 20px;
+	padding: 10px 20%;
+	text-shadow: #a39999 2px 3px 4px;
+	text-align:left;
+	color:  #646464;
+}
+
+.order {
+	margin: 100px 0px 0px 0px  ;
+
+}
+
+.order h2 {
+	font-size: 50px;
+	text-align: center;
+}
+
+.ing {
+	display: flex;
+	Justify-content: center;
+	margin-top: 80px;
+	
+}
+
+.q-one {
+	padding: 15px 15px;
+	width: 30%;
+	margin: 0 10%;
+}
+
+.q-two {
+	width:30% ;
+	padding: 15px;
+
+}
+
+.q-three {
+	padding: 15px 15px;
+	width: 30%;
+	margin: 0 10%;
+}
+
+.q-one img {
+	background-color: rgb(238, 177, 11);
+}
+
+.q-three img {
+	background-color: rgb(238, 177, 11);
+}
+
+ins {
+	color:  rgb(238, 177, 11);;
+}
+
+.podval {
+	margin-top: 10%;
+	background-color: #646464;
+	font-size: 50px;
+	text-align: center;
+	color: #ffffff
+	
+}
+
+.neaq {
+	padding: 100px 0px 100px ;
+	margin-top: 10px;
+	font-size: 60px;
+	color:rgb(238, 177, 11);	
+	font-weight: 700;
+}
+
+.text-p {
+	padding: 0px 30px 0px;
+	margin: 0px 0px 50px 0px;
+}
+
+.button {
+	font-size: 40px;
+	background-color: rgb(238, 177, 11);
+	color: #ffffff;
+	padding: 10px 30px 10px 30px;
+	box-shadow: #000000 2px 2px 3px;
+	border-radius: 10px;
+}
+
+.button:hover {
+	background-color: #ffffff;
+	color:rgb(238, 177, 11) ;
+	border-radius: 10px;
+}
+
+.cont {
+	margin: 2%;
+}
+
+.contact-color {
+	color: rgb(238, 177, 11);
+	padding-bottom: 40px;
+}
