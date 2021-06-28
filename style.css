@@ -15,6 +15,7 @@ nav,footer,header,aside{display: block;}
 html,body{
 	height: 100%;
 	width: 100%;
+	font-size: 100%;
 	line-height: 1;
 	font-size: 14px;
 	-ms-text-size-adjust: 100%;
@@ -43,7 +44,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
   font-size: 150px;
 }
 
-
 .user {
 	position: absolute;
   top: 20%;
@@ -59,7 +59,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	text-shadow: #000000 2px 3px 4px;
 	margin: 1px;
 	left:6%;
-	
 }
 
 .Iam {
@@ -69,7 +68,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	color: #646464;
 	text-shadow: #837d7d 2px 3px 4px;
 	background-color: #fefefe;
-	
 }
 
 .user-three {
@@ -95,7 +93,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 .order {
 	margin: 100px 0px 0px 0px  ;
-
 }
 
 .order h2 {
@@ -107,7 +104,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	display: flex;
 	Justify-content: center;
 	margin-top: 80px;
-	
 }
 
 .q-one {
@@ -119,7 +115,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .q-two {
 	width:30% ;
 	padding: 15px;
-
 }
 
 .q-three {
@@ -146,7 +141,6 @@ ins {
 	font-size: 50px;
 	text-align: center;
 	color: #ffffff
-	
 }
 
 .neaq {
